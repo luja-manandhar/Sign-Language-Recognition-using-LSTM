@@ -1,0 +1,11 @@
+fixed
+'again', 'father', 'learn', 'mother'
+
+working
+, 'goodbye', 'help', 'more', 'see you later', 'take care', 'fine'
+
+lost data
+, 'hello', 'i love you', 'thank you', 'yes', 'no'
+
+10 gestures.h5
+'again', 'father', 'learn', 'mother', 'fine', 'goodbye', 'help', 'more', 'see you later', 'take care', 'fine'
